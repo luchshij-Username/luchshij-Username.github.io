@@ -78,7 +78,15 @@ main {
   height: 100%;
 }
 
-.formula-1 p {
+
+
+
+
+
+
+
+
+.main-menu img {
 	background: #dfac20;
 	border: 1px solid #333;
 	font-size: 16px;
@@ -88,20 +96,19 @@ main {
 	width: 100px;
 }
 
-.formula-1 p {
+.main-menu img {
 	animation: cloud 3s infinite 2s;
 }
 
-.formula-1 p:after {
+.main-menu img:after {
 	left: 10px;
 }
 
-.formula-1 p:before {
+.main-menu img:before {
 	right: 10px;
 }
 
-.formula-1 .cloud {
-	background: #c32e04;
+.main-menu .cloud {
 	animation-timing-function: linear;
 }
 
