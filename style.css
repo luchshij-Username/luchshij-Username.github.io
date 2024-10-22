@@ -87,13 +87,7 @@ main {
 
 
 .clouds img {
-	font-size: 16px;
-	padding: 0.2em;
 	position: relative;
-	text-align: center;
-}
-
-.clouds img {
 	animation: cloud 3s infinite 2s;
 }
 
