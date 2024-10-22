@@ -86,7 +86,7 @@ main {
 
 
 
-.main-menu img {
+.clouds img {
 	font-size: 16px;
 	padding: 0.2em;
 	position: relative;
@@ -94,19 +94,19 @@ main {
 	width: 100px;
 }
 
-.main-menu img {
+.clouds img {
 	animation: cloud 3s infinite 2s;
 }
 
-.main-menu img:after {
+.clouds img:after {
 	left: 10px;
 }
 
-.main-menu img:before {
+.clouds img:before {
 	right: 10px;
 }
 
-.main-menu .cloud {
+.clouds .cloud {
 	animation-timing-function: linear;
 }
 
