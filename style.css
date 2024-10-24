@@ -93,14 +93,6 @@ main {
 	animation: cloud 3s infinite 2s;
 }
 
-.clouds img:after {
-	left: 10px;
-}
-
-.clouds img:before {
-	right: 10px;
-}
-
 .clouds .cloud {
 	animation-timing-function: linear;
 }
