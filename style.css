@@ -87,7 +87,7 @@ main {
 
 
 .clouds img {
-	top:100px;
+	top:rando(-150,-1000)px;
 	left:1000px;
 	z-index: -1;
 	position: relative;
