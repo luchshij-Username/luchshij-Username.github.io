@@ -104,6 +104,6 @@ main {
 		transform: translate(0);
 	}
 	100% {
-		transform: translate(-25em);
+		transform: translate(-100em);
 	}
 }
