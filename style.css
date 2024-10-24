@@ -87,6 +87,7 @@ main {
 
 
 .clouds img {
+	left:1000;
 	z-index: -1;
 	position: relative;
 	animation: cloud 3s infinite 2s;
