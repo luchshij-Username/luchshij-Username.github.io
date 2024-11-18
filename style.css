@@ -68,7 +68,7 @@ main {
   }
   .pos1:hover {
   animation-name: bigger;
-  animation-duration: 1s;
+  animation-duration: 0.5s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
 }
